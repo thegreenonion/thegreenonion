@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🇩🇪 Location: Germany
-- 🔭 I’m currently working on a vocabulary trainer for English and German primary, new languages to be implemented
+- 🔭 Currently working on a library management system using php/html/sql
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: greenoniondevelopments@gmx-topmail.de
 - ⚡ Interests: Everything AI, C#, Encryption
