@@ -3,7 +3,7 @@
 - 🇩🇪 Location: Germany
 - 🔭 Currently working on a library management system using php/html/sql
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: greenoniondevelopments@gmx-topmail.de
+- 📫 How to reach me: greenoniondev@gmx-topmail.de
 - ⚡ Interests: Everything AI, C#, Encryption
 - 📕 Languages: C#, Python, PHP
 - 💬 Available for hire
